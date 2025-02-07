@@ -1,2 +1,2 @@
-# sc_302_docuentacion
+# sc_302_documentacion
 Esto es un laboratorio de Github
